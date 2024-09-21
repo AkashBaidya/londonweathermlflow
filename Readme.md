@@ -90,8 +90,8 @@ We evaluated the models using the following metrics:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/weather-prediction-mlflow.git
-   cd weather-prediction-mlflow
+   git clone https://github.com/AkashBaidya/londonweathermlflow
+   cd londonweathermlflow
    ```
 
 2. Install the required dependencies:
@@ -101,7 +101,7 @@ We evaluated the models using the following metrics:
 
 3. Run the Jupyter notebook to start training the models:
    ```bash
-   jupyter notebook notebooks/Weather_Prediction_with_MLflow.ipynb
+   jupyter notebook notebooks/Predicting weather with MLflow.ipynb
    ```
 
 4. Run MLflow to track experiments:
