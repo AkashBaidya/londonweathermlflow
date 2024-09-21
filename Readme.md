@@ -141,6 +141,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## ✉️ Contact
 
 For more details, you can reach out at:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: akashbaidya2@gmmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/akashbaidya/)
 
